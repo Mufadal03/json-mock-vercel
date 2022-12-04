@@ -1,9 +1,1282 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "earrings":[
+    {
+      "id":1,
+      "name":"Rays Of Light Hoops",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000098-2__43894_823x.jpg?v=1645115759",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000098-3__52395_823x.jpg?v=1645115762",
+      "price":16,
+      "quantity":1
+    },
+    {
+      "id":2,
+      "name":"Daisy Post Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101015-1_823x.jpg?v=1646760637",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101015-3_823x.jpg?v=1646760639",
+      "price":16,
+      "quantity":1
+    },
+    {
+      "id":3,
+      "name":"Maryland Crab Earrings (18K & 24K Gold)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011300002-2__23761_823x.jpg?v=1645110224",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011300001-3__08167_823x.jpg?v=1645110216",
+      "price":15,
+      "quantity":1
+    },
+    {
+      "id":4,
+      "name":"Fir Drop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101044-2_823x.jpg?v=1646760990",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101044-3_823x.jpg?v=1646760990",
+      "price":25,
+      "quantity":1
+    },
+    {
+      "id":5,
+      "name":"Cyprus Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101035-1_823x.jpg?v=1647540132",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101035-4_823x.jpg?v=1647540161",
+      "price":18,
+      "quantity":1
+    },
+    {
+      "id":6,
+      "name":"Boss Status Bar Earrings (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010100535-2__75509.jpg?v=1645114230",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010100535-4__11921_823x.jpg?v=1645114232",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":7,
+      "name":"Astoria Hook Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101051-1_823x.jpg?v=1647606138",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101051-4_823x.jpg?v=1647606141",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":8,
+      "name":"Classique Hoop Earrings | Amber",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101047-C-2_823x.jpg?v=1647541448",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101047-C-4_823x.jpg?v=1647541449",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":9,
+      "name":"Vault Huggie Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101046-1_823x.jpg?v=1647540205",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101046-4_823x.jpg?v=1647540212",
+      "price":25.00,
+      "quantity":1
+    },
+    {
+      "id":10,
+      "name":"Vinci Ear Jacket",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101028-2_493x.jpg?v=1647540052",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101028-4_493x.jpg?v=1647540053",
+      "price":21.00,
+      "quantity":1
+    },
+    {
+      "id":11,
+      "name":"Oval Wicker Drop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200810-2__70803_493x.jpg?v=1645116093",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200810-3__10374_493x.jpg?v=1645116095",
+      "price":15.00,
+      "quantity":1
+    },
+    {
+      "id":12,
+      "name":"Simplicity Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101005-2__93742_493x.jpg?v=1645116076",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101005-3__50209_493x.jpg?v=1645116078",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":13,
+      "name":"Northern Star Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101002-2__09208_493x.jpg?v=1645116367",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101002-3__54691_493x.jpg?v=1645116369",
+      "price":21.00,
+      "quantity":1
+    },
+    {
+      "id":14,
+      "name":"Chase The Rainbow Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200823-1__33324_493x.jpg?v=1645116312",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200823-3__99867_493x.jpg?v=1645116314",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":15,
+      "name":"Rhinestone Wing Earrings | Clear",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200826-C-1__83187_493x.jpg?v=1652369565",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200826-C-3__07211_493x.jpg?v=1652369565",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":16,
+      "name":"Double the Gold Ear Cuff (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010700034-1__36487_493x.jpg?v=1645115732",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010700034-3__78314_493x.jpg?v=1645115734",
+      "price":10.00,
+      "quantity":1
+    },
+    {
+      "id":17,
+      "name":"Ginkgo Leaf Hoop Earrings (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000124-3__50511_493x.jpg?v=1645115769",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000124-5__81084_493x.jpg?v=1645115771",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":18,
+      "name":"Single Stone Stud Earrings (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010100499-1__08052_493x.jpg?v=1645113692",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010100499-m_1_of_1__84652_493x.jpg?v=1645113693",
+      "price":11.00,
+      "quantity":1
+    },
+    {
+      "id":19,
+      "name":"Straight Bar Ear Crawlers (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010400034-1__46864_493x.jpg?v=1645112191",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010400034-4__16790_493x.jpg?v=1645112193",
+      "price":15.00,
+      "quantity":1
+    },
+    {
+      "id":20,
+      "name":"Fraise Dangle Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101026-B-1_493x.jpg?v=1649869645",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101026-B-4_493x.jpg?v=1649869699",
+      "price":26.00,
+      "quantity":1
+    },
+    {
+      "id":21,
+      "name":"Rene Drop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101049-1_493x.jpg?v=1647606597",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101049-4_493x.jpg?v=1647606605",
+      "price":21.00,
+      "quantity":1
+    },
+    {
+      "id":22,
+      "name":"Flare Post Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101053-1_493x.jpg?v=1647606494",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101053-4_493x.jpg?v=1647606502",
+      "price":32.00,
+      "quantity":1
+    },
+    {
+      "id":23,
+      "name":"Classique Hoop Earrings | Cream",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101047-B-1_493x.jpg?v=1647541338",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101047-B-4_493x.jpg?v=1647541344",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":24,
+      "name":"Starfish Stud Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101022-1_493x.jpg?v=1646420964",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101022-4_493x.jpg?v=1646421025",
+      "price":21.00,
+      "quantity":1
+    },
+    {
+      "id":25,
+      "name":"Canal Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101006-2__48799_493x.jpg?v=1645116372",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101006-3__61677_493x.jpg?v=1645116374",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":26,
+      "name":"Esmeralda Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101000-1__90259_493x.jpg?v=1645116340",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101000-3__13840_493x.jpg?v=1645116343",
+      "price":21.00,
+      "quantity":1
+    },
+    {
+      "id":27,
+      "name":"Armored Curved Huggie Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200865-2__83146_493x.jpg?v=1645115906",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200865-3__49996_493x.jpg?v=1645115908",
+      "price":28.00,
+      "quantity":1
+    },
+    {
+      "id":28,
+      "name":"Triangle and Pears Asymmetrical Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000158-2__91578_493x.jpg?v=1645116064",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000158-3__78715_493x.jpg?v=1645116065",
+      "price":36.00,
+      "quantity":1
+    },
+    {
+      "id":29,
+      "name":"Heiress Huggie Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200864-2__84408_493x.jpg?v=1645115895",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200864-3__83677_493x.jpg?v=1645115897",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":30,
+      "name":"Beaded Oval Hoop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000153-2__12160_493x.jpg?v=1645115889",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000153-3__43681_493x.jpg?v=1645115891",
+      "price":30.00,
+      "quantity":1
+    },
+    {
+      "id":31,
+      "name":"Secured Pearl Drop Earrings",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200874-6__12976_493x.jpg?v=1645116041",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200874-3__40427_493x.jpg?v=1645116043",
+      "price":40.00,
+      "quantity":1
+    },
+    {
+      "id":32,
+      "name":"Falling Gold Earrings (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200749-2__91729_493x.jpg?v=1645115935",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200749-7__79054_493x.jpg?v=1645115937",
+      "price":15.00,
+      "quantity":1
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "necklaces":[
+    {
+      "id":33,
+      "name":"Plate Oval Chain Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201013-2__98789_823x.jpg?v=1645115942",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201013-3__21594_823x.jpg?v=1645115943",
+      "price":16,
+      "quantity":1
+    },
+    {
+      "id":34,
+      "name":"Antigone Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100463-1__46464_493x.jpg?v=1645112739",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100463-3__29850_493x.jpg?v=1645112741",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":35,
+      "name":"Othello Layered Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201011-2__52444_493x.jpg?v=1645116103",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201011-3__04676_493x.jpg?v=1645116105",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":36,
+      "name":"Laertes Layered Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201010-1__26041_493x.jpg?v=1645116374",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201010-3__55417_493x.jpg?v=1645116376",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":37,
+      "name":"Double Double Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201006-2__28603_493x.jpg?v=1645116368",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201006-3__15448_493x.jpg?v=1645116370",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":38,
+      "name":"Samba Charm Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201000-2__49671_493x.jpg?v=1645116352",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201000-3__93474_493x.jpg?v=1645116355",
+      "price":24.00,
+      "quantity":1
+    },
+    {
+      "id":39,
+      "name":"Shine Bright Y-Necklace (14K",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020400079-3__32862_493x.jpg?v=1645115394",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/IMG_5090__61478_493x.jpg?v=1645115397",
+      "price":24.00,
+      "quantity":1
+    },
+    {
+      "id":40,
+      "name":"Boheme Stone Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100370-2__34904_493x.jpg?v=1645113593",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200058__13997_493x.jpg?v=1645113595",
+      "price":30.00,
+      "quantity":1
+    },
+    {
+      "id":41,
+      "name":"Hamlet Layered Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201005-2__41179_493x.jpg?v=1645115930",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201005-3__67325_493x.jpg?v=1645115932",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":42,
+      "name":"Perfect Link Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100575-4__97470_493x.jpg?v=1645115770",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100575-3__08128_493x.jpg?v=1645115772",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":43,
+      "name":"Modern Minimalist Bar Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100565-2__58904_493x.jpg?v=1645114959",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100565-4__69487_493x.jpg?v=1645114961",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":44,
+      "name":"Sunset Circle Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100562_2__87633_493x.jpg?v=1645115402",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100562-4__94244_493x.jpg?v=1645115404",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":45,
+      "name":"Horizon Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100370-3__30961_493x.jpg?v=1645111658",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100370-4__34001_493x.jpg?v=1645111641",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":46,
+      "name":"Diamonds Are Forever Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200068-1__84305_493x.jpg?v=1645114242",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200068-5__58390_493x.jpg?v=1645114243",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":47,
+      "name":"Cassio Charm Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201014-2__40509_493x.jpg?v=1645116380",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201014-3__28860_493x.jpg?v=1645116382",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":48,
+      "name":"Helio Charm Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201009-1__90403_493x.jpg?v=1645115936",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201009-3__65781_493x.jpg?v=1645115938",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":49,
+      "name":"Snake Chain Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201004-B-1__72807_493x.jpg?v=1645116088",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201004-B-2__16458_493x.jpg?v=1645116091",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":50,
+      "name":"Stellar Charm Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201003-2__32662_493x.jpg?v=1645115924",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201003-3__29983_493x.jpg?v=1645115926",
+      "price":20.00,
+      "quantity":1
+    },
+    {
+      "id":51,
+      "name":"La Vie En Rose Charm Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201002-1__25361_493x.jpg?v=1645116378",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201002-3__96915_493x.jpg?v=1645116380",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":52,
+      "name":"Chain Lariat Necklace | Gold (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600156-G-1__18778_493x.jpg?v=1645115805",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600156-G-4__61767_493x.jpg?v=1645115807",
+      "price":25.00,
+      "quantity":1
+    },
+    {
+      "id":53,
+      "name":"Bubble Layered Lariat Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020700077-1__39310_493x.jpg?v=1645116259",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020700077-4__96840_493x.jpg?v=1645116261",
+      "price":24.00,
+      "quantity":1
+    },
+    {
+      "id":54,
+      "name":"Bubble Chain Choker Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100576-2__27755_493x.jpg?v=1645116093",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100576-3__24975_493x.jpg?v=1645116095",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":55,
+      "name":"Plain Chain Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100577-2__03781_493x.jpg?v=1645116021",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100577-1__75323_493x.jpg?v=1645116023",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":56,
+      "name":"Sparkling Stone Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100564_1__30590_493x.jpg?v=1645115343",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100564-4__22201_493x.jpg?v=1645115344",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":57,
+      "name":"Pixum Compass Stone Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500296-3__04809_493x.jpg?v=1645113004",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500295-3__24966_493x.jpg?v=1645113006",
+      "price":20.00,
+      "quantity":1
+    },
+    {
+      "id":58,
+      "name":"Ombre Stone Tear Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500259-1__20614_493x.jpg?v=1645112658",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500259-4__26964_493x.jpg?v=1645112654",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":59,
+      "name":"Rumi Stone Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500158-G-1__97003_493x.jpg?v=1645111184",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500158-3__61707_493x.jpg?v=1645111188",
+      "price":20.00,
+      "quantity":1
+    },
+    {
+      "id":60,
+      "name":"Maryland Crab Necklace (18K & 24K Gold)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600050-2__02253_493x.jpg?v=1648824851",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600050-3__52178_493x.jpg?v=1648824851",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":61,
+      "name":"Laguna Pearl Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201008-2__84927_493x.jpg?v=1645116391",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201008-3__26789_493x.jpg?v=1645116393",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":62,
+      "name":"By The Sea Charm Necklace | Gold (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600155-G-2__27222_493x.jpg?v=1645116295",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600155-G-3__09175_493x.jpg?v=1645116299",
+      "price":36.00,
+      "quantity":1
+    },
+    {
+      "id":63,
+      "name":"Gold Beaded Chain Necklace",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200076-2__20665_493x.jpg?v=1645115620",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200076-5__52896_493x.jpg?v=1645115621",
+      "price":18.00,
+      "quantity":1
+    },
+    {
+      "id":64,
+      "name":"Once Upon a Chain Necklace (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100573-2__26406_493x.jpg?v=1645115608",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100573-3__94603_493x.jpg?v=1645115610",
+      "price":16.00,
+      "quantity":1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "bracelets":[
+    {
+      "id":65,
+      "name":"Maryland Crab Bracelet (18K & 24K Gold)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030700007-2__59557_823x.jpg?v=1645110218",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/crabs_model_1__49622.jpg?v=1645110207",
+      "price":16,
+      "quantity":1
+    },
+    {
+      "id":66,
+      "name":"Singapore Chain Anklet | Gold",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800023-2__66753_493x.jpg?v=1645115925",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800023-3__70304_493x.jpg?v=1645115927",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":67,
+      "name":"Brushed Sphere Cuff",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/686625FF-2__98081_493x.jpg?v=1645110189",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/D877C94B-4__63029_493x.jpg?v=1645110180",
+      "price":20.00,
+      "quantity":1
+    },
+    {
+      "id":68,
+      "name":"Blissfully Beaded Bracelet | Black (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-B-1__23082_493x.jpg?v=1645115370",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-M_M__29172_493x.jpg?v=1645115371",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":69,
+      "name":"Blissfully Beaded Bracelet | Crystal Clear (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-S_2__57973_493x.jpg?v=1645115284",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040300095_M__13624_493x.jpg?v=1645115285",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":70,
+      "name":"Always a Dreamer Bracelet (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100135-2__46515_493x.jpg?v=1645114215",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100135_M__47585_493x.jpg?v=1645114217",
+      "price":24.00,
+      "quantity":1
+    },
+    {
+      "id":71,
+      "name":"Beaming Bar Stone Bracelet | Silver",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100130-1__59762_493x.jpg?v=1645112941",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100130-3__84440_493x.jpg?v=1645112938",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":72,
+      "name":"Beaming Bar Stone Bracelet | Rose Gold (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100127-1__18914_493x.jpg?v=1645113044",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100129-3__23601_493x.jpg?v=1645113037",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":73,
+      "name":"Disc Trio Anklet | Gold",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800010-1__40868_493x.jpg?v=1645116239",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800010-3__96654_493x.jpg?v=1645116241",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":74,
+      "name":"Cool Girl Chain Anklet | Gold",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800020-G-1__18532_493x.jpg?v=1645115811",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800020-G-3__01454_493x.jpg?v=1645115813",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":75,
+      "name":"Mod Box Chain Anklet | Gold",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800021-G-1__54877_493x.jpg?v=1645115919",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800021-G-3__10223_493x.jpg?v=1645115923",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":76,
+      "name":"Minimal Circle Rhinestone Anklet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800012-2__19471_493x.jpg?v=1645116158",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800012-3__94518_493x.jpg?v=1645116160",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":77,
+      "name":"Oval Rolo Chain Anklet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800011-2__07524_493x.jpg?v=1645115735",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800011-3__66808_493x.jpg?v=1645115737",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":78,
+      "name":"Thick and Thin Chain Bracelet (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100160-3__70321_493x.jpg?v=1645115635",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100160-3__31041_493x.jpg?v=1645115637",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":79,
+      "name":"Truly Chained Bracelet (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100157-2__79685_493x.jpg?v=1645115596",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100157-3__78566_493x.jpg?v=1645115598",
+      "price":12.00,
+      "quantity":1
+    },
+    {
+      "id":80,
+      "name":"Blissfully Beaded Bracelet | Pearl (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-P-1__93147_493x.jpg?v=1645115289",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-P_M__75936_493x.jpg?v=1645115291",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":81,
+      "name":"Blissfully Beaded Bracelet | Maroon (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-C_2__47912_493x.jpg?v=1645115279",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-C_M__67191_493x.jpg?v=1645115281",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":82,
+      "name":"Maioki Bracelet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030200007-4__04625_493x.jpg?v=1645114043",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030200007-5__44462_493x.jpg?v=1645114045",
+      "price":12.00,
+      "quantity":1
+    },
+    {
+      "id":83,
+      "name":"Corinne Chain Bracelet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100082-2__03069_493x.jpg?v=1645111979",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100082-4__42425_493x.jpg?v=1645111975",
+      "price":24.00,
+      "quantity":1
+    },
+    {
+      "id":84,
+      "name":"Droplet Cuff",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500051-1__50255_493x.jpg?v=1650910297",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500051-3__97892_493x.jpg?v=1650910297",
+      "price":20.00,
+      "quantity":1
+    },
+    {
+      "id":85,
+      "name":"Mini Gold Disc Anklet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800008-2__51767_493x.jpg?v=1645115817",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800008-3__23220_493x.jpg?v=1645115819",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":86,
+      "name":"Turquoise Beaded Anklet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800019-2__09113_493x.jpg?v=1645116173",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800019-3__88465_493x.jpg?v=1645116176",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":87,
+      "name":"Fabled Pearl Beaded Bracelet (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600087_2__42294_493x.jpg?v=1645115375",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600087_M__06315_493x.jpg?v=1645115376",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":88,
+      "name":"Gold Pearl Bracelet (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600076-2__46011_493x.jpg?v=1645113814",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040100068_M__45177_493x.jpg?v=1645113815",
+      "price":15.00,
+      "quantity":1
+    },
+    {
+      "id":89,
+      "name":"Solid Bar Cuff Bracelet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500064-2__36132_493x.jpg?v=1645111146",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500064-3__76998_493x.jpg?v=1645111148",
+      "price":15.00,
+      "quantity":1
+    },
+    {
+      "id":90,
+      "name":"Gold Twisted Cuff",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500168-3__38442_493x.jpg?v=1645115778",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500168-1__30118_493x.jpg?v=1645115780",
+      "price":16.00,
+      "quantity":1
+    },
+    {
+      "id":91,
+      "name":"Ceres Cuff Bracelet | Rose Gold (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500161-RG-2__68301_493x.jpg?v=1645113820",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500161-RG-4__64200_493x.jpg?v=1645113822",
+      "price":15.00,
+      "quantity":1
+    },
+    {
+      "id":92,
+      "name":"Beaded Rope Bracelet | Clear Ice",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600054-3__70770_493x.jpg?v=1645113535",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600054-1__90267_493x.jpg?v=1645113537",
+      "price":12.00,
+      "quantity":1
+    },
+    {
+      "id":93,
+      "name":"Beaded Rope Bracelet | Blue Chill",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600052-2__26953_493x.jpg?v=1645113886",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600052-3__65633_493x.jpg?v=1645113888",
+      "price":12.00,
+      "quantity":1
+    },
+    {
+      "id":94,
+      "name":"Champagne and Sparkles Bracelet",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600080-3__96396_493x.jpg?v=1645114258",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600080-5__26453_493x.jpg?v=1645114259",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":95,
+      "name":"Blissfully Beaded Bracelet | Turquoise (14K)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-T_2__62445_493x.jpg?v=1645115361",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040300095_M__59530_493x.jpg?v=1645115362",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":96,
+      "name":"Allure The Masses Chain Bracelet | Silver (sterl.)",
+      "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030700033-S-1__41082_493x.jpg?v=1645114006",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030700033-S-5__04034_493x.jpg?v=1645114008",
+      "price":18.00,
+      "quantity":1
+    }
+  ],
+  "homepage":[ 
+     {      "id":97,
+             "name": "Crystal Clear Hook Earrings (14K)",
+        
+             "poster": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011100072-2_360x.jpg?v=1656343845",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011100072-7_823x.jpg?v=1656343845",
+      "price":14.00,
+      "quantity":1
+    },
+    {
+      "id":98,
+        "name": "Refined Stud Earrings",
+        "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101016-1_823x.jpg?v=1650308676",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101016-4_360x.jpg?v=1650308683",
+      "price":21.00,
+      "quantity":1
+    },
+    {"id":99,
+        "name": "Terrace Drop Earrings",
+        "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101061-1_823x.jpg?v=1650308599",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101061-4_360x.jpg?v=1650308606",
+      "price":25.00,
+      "quantity":1
+    },
+    {   "id":100,
+        "name": "Textile Drop Earrings | Houndstooth",
+        "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-D-1_823x.jpg?v=1650308558",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-D-4_360x.jpg?v=1650308562",
+      "price":25.00,
+      "quantity":1
+    },
+    {
+      "id":101,
+      "name":"Textile Drop Earrings | Checkered",
+        "poster": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-C-2_823x.jpg?v=1650308512",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-C-4_823x.jpg?v=1650308512",
+      "price":25.00,
+      "quantity":1
+    },
+    {
+      "id":102,
+        "name": "Textile Drop Earrings | Florals",
+        "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-B-1_823x.jpg?v=1650308456",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-B-4_360x.jpg?v=1650308459",
+      "price":25.00,
+      "quantity":1
+    },
+    {
+      "id":103,
+        "name": "Textile Drop Earrings | Specks",
+        "poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-A-2_823x.jpg?v=1650308396",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101009-A-4_360x.jpg?v=1650308396",
+      "price":25.00,
+      "quantity":1
+    },
+    {
+      "id":104,
+      "name":"Jelly Hoop Earrings",
+        "poster": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101045-1_493x.jpg?v=1650308318",
+      "hover_poster":"https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101045-4_823x.jpg?v=1650308327",
+      "price":25.00,
+      "quantity":1
+    }
+  ],
+  "buynow":[
+
+  ],
+  "wishlist":[
+
+  ],
+  "cart":[
+    
+  ],
+  "signup":[
+
+  ],
+  "cartInfo":[
+  
+  ] ,
+  "todos":[
+    
+  ],
+  "albums": [
+    {
+      "id": "1",
+      "name": "BE",
+      "artist": "BTS",
+      "genre": "K-Pop",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/cb/12/66/cb126687-c54d-eb71-6a6c-5f32c1472a04/195497623273.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "ghi"
+        },
+        {
+          "name": "jkl"
+        }
+      ]
+    },
+
+    {
+      "id": "2",
+      "name": "Starting Over",
+      "artist": "Chris Stapleton",
+      "genre": "Country",
+      "year": 2019,
+      "no_of_songs": "2",
+      "img": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/0e/e1/be/0ee1bebf-783b-787e-8f34-0d0df37b3f69/20UMGIM71875.rgb.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "name": "Harmony",
+      "artist": "Josh Groban",
+      "genre": "Pop",
+      "year": 2018,
+      "no_of_songs": "4",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/f3/17/ff/f317ffc4-eadd-f85e-6ed4-4b4bcc5cb63d/093624888406.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "POWER UP",
+      "artist": "AC/DC",
+      "genre": " Hard Rock",
+      "year": 2019,
+      "no_of_songs": "2",
+      "img": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/b0/ec/cb/b0eccb83-3ea8-4404-1747-9080482e5e8a/886448802198.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+
+    {
+      "id": "5",
+      "name": "Starting Over",
+      "artist": " Mat and Savanna Shaw",
+      "genre": "Holiday",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/98/17/2a9817da-4d03-8517-c2e4-6b407d11b854/195269041267.png/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+
+    {
+      "id": "6",
+      "name": "We Need A Little Christmas",
+      "artist": "Pentatonix",
+      "genre": "Holiday",
+      "year": 2018,
+      "no_of_songs": "3",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/8a/98/ca/8a98ca35-a9bd-af24-05a8-5d8da2959c46/886448750703.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+
+    {
+      "id": "7",
+      "name": "My Gift",
+      "artist": "Carrie Underwood",
+      "genre": "Holiday",
+      "year": 2019,
+      "no_of_songs": "2",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/ba/07/bc/ba07bcdd-5129-1d5e-6267-8252f0e24829/20UMGIM69450.rgb.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+
+    {
+      "id": "8",
+      "name": "Hey World",
+      "artist": "Lee Brice",
+      "genre": "Country",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/6d/30/9f/6d309fd1-6cdf-e50f-752c-3177bf24f0a7/715187954762.png/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+
+    {
+      "id": "9",
+      "name": "A Holly Dolly Christmas",
+      "artist": "Dolly Parton",
+      "genre": "Holiday",
+      "year": 2017,
+      "no_of_songs": "3",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/84/dc/bd/84dcbda7-c5bb-357b-7a5e-6d0304b9a90f/190296823428.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Songs You Don't Know By Heart",
+      "artist": "Jimmy Buffett",
+      "genre": "K-Pop",
+      "year": 2017,
+      "no_of_songs": "3",
+      "img": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/99/ed/c0/99edc06d-9110-d9db-eae9-665dc77200b3/JimmyBuffett-SongsYouDontKnowByHeart-DigitalCover-3000x3000.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Believe (Deluxe)",
+      "artist": "Andrea Bocelli",
+      "genre": "Classical Crossover",
+      "year": 2020,
+      "no_of_songs": "2",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0d/39/fb/0d39fbc2-98b1-4e9d-a8e9-159139834fa6/20UMGIM80226.rgb.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Classic Diamonds With The London Symphony Orchestra",
+      "artist": "Neil Diamond",
+      "genre": "Singer/Songwriter",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/84/dc/bd/84dcbda7-c5bb-357b-7a5e-6d0304b9a90f/190296823428.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "ghi"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "10",
+      "artist": "The Piano Guys",
+      "genre": "Classical Crossover",
+      "year": 2019,
+      "no_of_songs": "2",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/74/31/b6/7431b62d-f80f-8297-9356-a5f6001bf798/886448635437.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Christmas",
+      "artist": "Dolly Parton",
+      "genre": "Holiday",
+      "year": 2017,
+      "no_of_songs": "3",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/84/dc/bd/84dcbda7-c5bb-357b-7a5e-6d0304b9a90f/190296823428.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Nights of the Dead, Legacy of the Beast: Live in Mexico City",
+      "artist": "Iron Maiden",
+      "genre": "Heavy Metal",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/96/ed/9a96ede3-1eac-d84a-b7b7-49ae7397ca2e/4050538647594.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Iron Maiden",
+      "artist": "The Piano Guys",
+      "genre": "Heavy Metal",
+      "year": 2017,
+      "no_of_songs": "3",
+      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/96/ed/9a96ede3-1eac-d84a-b7b7-49ae7397ca2e/4050538647594.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Kindred Spirits",
+      "artist": "Larkin Poe",
+      "genre": "Rock",
+      "year": 2018,
+      "no_of_songs": "4",
+      "img": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/41/87/8a/41878a01-621b-282c-fba2-07302f0a57f1/192641558757_Cover.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Pluto x Baby Pluto",
+      "artist": "Future & Lil Uzi Vert",
+      "genre": "Holiday",
+      "year": 2017,
+      "no_of_songs": "3",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/84/dc/bd/84dcbda7-c5bb-357b-7a5e-6d0304b9a90f/190296823428.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+      "artist": "Luke Combs",
+      "genre": "Country",
+      "year": 2017,
+      "no_of_songs": "4",
+      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/13/4a/11/134a11e7-35f1-a9e4-3f8c-a70443ca2e0a/886448691341.jpg/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "A Drummer Boy Christmas",
+      "artist": "for KING & COUNTRY",
+      "genre": "Christmas",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/ba/46/4c/ba464c84-225a-4ffd-30aa-cdaf1d5aca47/080688042363.png/170x170bb.png",
+      "songs": [
+        {
+          "name": "abc"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        },
+        {
+          "name": "def"
+        }
+      ]
+    }
+  ]
+  
+
+
 }
